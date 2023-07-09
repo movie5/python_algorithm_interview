@@ -30,13 +30,12 @@
 </table>
 
 
-<br/>
-
 ### 🔥 스터디원 🔥
+<table><tr>         <td align="center"><a href="https://github.com/kimdahyeon977"><img src="https://avatars.githubusercontent.com/u/59358910?v=4" width="100px;" alt=""/>         <br /><sub><b>Dahyeon</b></td>
+         <td align="center"><a href="https://github.com/videorighter"><img src="https://avatars.githubusercontent.com/u/75473005?v=4" width="100px;" alt=""/>         <br /><sub><b>영상</b></td>
+         <td align="center"><a href="https://github.com/movie5"><img src="https://avatars.githubusercontent.com/u/43196430?v=4" width="100px;" alt=""/>         <br /><sub><b>영화</b></td></table> 
 
-<table><tr> <td align
 
- - 디스코드 이름 github주소 링크드인 주소
 
 
 ## 📢 스터디 규칙
@@ -71,7 +70,7 @@
 
 ## 🌻Schedule
 
-|   주차   |      날짜   |    발표자   | 책 진도 |
+|   주차   |      날짜   |    문제   | 책 진도 |
 |:-------:|:----------:|:----------:|:---------:|
 | week_01 | 2023.06.11 |       |   [1주차] 6장_문자열 조작      |     
 | week_02 | 2023.06.18 |     |    [2주차] 7장_배열   |   
@@ -163,4 +162,5 @@
 해당 README는 다음 레포지토리를 참고하여 만들었습니다.
 
 -[알고리즘 및 코딩 테스트 문제 풀이 챌린지 100](https://github.com/ellynhan/challenge100-codingtest-study)
+
 -[알고리즘 스터디](https://github.com/CodeSquad-2023-BE-Study/Algorithm-Study)
