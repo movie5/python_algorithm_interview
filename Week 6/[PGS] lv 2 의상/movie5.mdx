@@ -1,4 +1,21 @@
 '''py
-def solution(participant, completion):
-answer = ''
-return answer
+
+def solution(clothes):
+    dict = {}
+    answer = 1
+    # 이렇게 2중 list안의 요소를 두개씩 탐색할 수 있다..! 
+    for name, wears in clothes:
+        #어차피 종류에 따라서 경우의 수를 구하니까
+        if wears in dict:
+            dict[wears] +=1
+        else:
+            dict[wears] = 1
+    # 해시 테이블에서 종류에 대해서 조합을 구한다
+    for item in dict:
+        # 안입는 경우 ~ 한 종류의 모든 아이템까지 총 갯수+1의 경우의 수를 곱한다
+        answer = answer * (dict[item] + 1)
+    #아무것도 안 입는 경우의 수는 빼준다.     
+    answer = answer -1 
+    return answer
+
+```
