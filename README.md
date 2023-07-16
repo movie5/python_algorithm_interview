@@ -77,8 +77,8 @@
 | week_03 | 2023.06.25 |       |   [3주차] 8장_연결 리스트     | 
 | week_04 | 2023.07.01 |     |    [4주차] 9장_스택, 큐  |    
 | week_05 | 2023.07.09 |      |    [5주차] 10장_데크, 우선순위 큐    |   
-| week_06 | 2023.07.16 | PGS 해시  |     [6주차] 11장_해시 테이블    |  
-| week_07 | 2023.07.23 |      |   [7주차] 12장_그래프  |     
+| week_06 | 2023.07.16 | [PGS 해시](https://school.programmers.co.kr/learn/courses/30/parts/12077)  |     [6주차] 11장_해시 테이블    |  
+| week_07 | 2023.07.23 | [트리의부모찾기](https://www.acmicpc.net/problem/11725) [촌수계산](https://www.acmicpc.net/problem/2644) [결혼식](https://www.acmicpc.net/problem/5567) [최단경로](https://www.acmicpc.net/problem/1753) [알파벳](https://www.acmicpc.net/problem/1987) [적록색약](https://www.acmicpc.net/problem/10026) |   [7주차] 12장_그래프(~35번 조합)  |     
 | week_08 | 2023.07.30 |      |     [8주차] 12, 13장_그래프, 최단 경로 문제    |  
 | week_09 | 2023.08.06 |      | [9주차] 14장_트리 | 
 | week_10 | 2023.08.13 |     |   [10주차] 15, 16장_힙, 트라이   | 
