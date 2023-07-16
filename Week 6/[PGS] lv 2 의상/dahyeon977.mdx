@@ -1,0 +1,13 @@
+```python
+from collections import defaultdict
+from math import comb 
+def solution(clothes):
+    total = 1
+    hash = defaultdict(list)
+    for i in clothes:
+        name, t = i[0],i[1]
+        hash[t].append(name)
+    for t in list(map(lambda x: len(x),hash.values())):
+        total*=(t+1)
+    return total-1
+```
