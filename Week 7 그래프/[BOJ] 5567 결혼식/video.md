@@ -33,7 +33,7 @@ for _ in range(m):
             adj[i] = []
 
     for i in range(len(friendship)):
-            adj[friendship[i]].append(friendship[(i+1) % len(friendship)])
+        adj[friendship[i]].append(friendship[(i+1) % len(friendship)])
 
 invite = adj[1].copy()
 for i in adj[1]:

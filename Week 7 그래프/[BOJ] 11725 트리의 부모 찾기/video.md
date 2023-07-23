@@ -40,6 +40,8 @@ dfs(1)
 for i in range(2, n+1):
     print(visited[i])
 ```
+
+### 설명
 - sys.stdin.readline() 사용하여 input 시간 절약
 - dfs에 stack을 활용
-- dfs를 통해 visited에 
+- dfs를 통해 visited에 방문 기록을 남기고 하나씩 출력
