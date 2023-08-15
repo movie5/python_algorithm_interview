@@ -64,7 +64,6 @@ import sys
 from collections import deque
 
 input = sys.stdin.readline
-q= deque()
 graph= []
 blank = [] 
 for _ in range(9):
@@ -108,7 +107,7 @@ def dfs(idx):
     for i in range(1,10):
         if check_row(x, i) and check_col(y, i) and check_rect(x, y, i):
             graph[x][y]=i
-            print(x,y,idx)
+            #print(x,y,idx)
             dfs(idx+1)
             graph[x][y]=0
 
