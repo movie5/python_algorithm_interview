@@ -81,8 +81,8 @@
 | week_07 | 2023.07.23 | [트리의부모찾기](https://www.acmicpc.net/problem/11725) [촌수계산](https://www.acmicpc.net/problem/2644) [결혼식](https://www.acmicpc.net/problem/5567) [최단경로](https://www.acmicpc.net/problem/1753) [알파벳](https://www.acmicpc.net/problem/1987) [적록색약](https://www.acmicpc.net/problem/10026) |   [7주차] 12장_그래프(~35번 조합)  |     
 | week_08 | 2023.07.30 | 중간 방학    |     중간 방학   |  
 | week_09 | 2023.08.06 | 리뷰 데이 |  리뷰 데이  | 
-| week_10 | 2023.08.13 | [가장 가까운 공통조상](https://www.acmicpc.net/problem/3584) [트리](https://www.acmicpc.net/problem/1068) [스도쿠](https://www.acmicpc.net/problem/2580) [계란으로 계란치기](https://www.acmicpc.net/problem/16987) [택배](https://www.acmicpc.net/problem/1719) [녹색옷입은애가젤다지?](https://www.acmicpc.net/problem/4485)      | [8주차] 12, 13장_그래프, 최단 경로 문제 [9주차] 14장_트리   | 
-| week_11 | 2023.08.20 | [문자열지옥에빠진호석](https://www.acmicpc.net/problem/20166) [전화번호목록](https://www.acmicpc.net/problem/5052) [개미굴](https://www.acmicpc.net/problem/14725)     | [10주차] 15, 16장_힙, 트라이    | 
+| week_10 | 2023.08.13 | [가장 가까운 공통조상](https://www.acmicpc.net/problem/3584) [트리](https://www.acmicpc.net/problem/1068) [스도쿠](https://www.acmicpc.net/problem/2580) [계란으로 계란치기](https://www.acmicpc.net/problem/16987) [택배](https://www.acmicpc.net/problem/1719) [녹색옷입은애가젤다지?](https://www.acmicpc.net/problem/4485)      | [10주차] 12, 13장_그래프, 최단 경로 문제 [9주차] 14장_트리   | 
+| week_11 | 2023.08.20 | [문자열지옥에빠진호석](https://www.acmicpc.net/problem/20166) [전화번호목록](https://www.acmicpc.net/problem/5052) [개미굴](https://www.acmicpc.net/problem/14725)     | [11주차] 15, 16장_힙, 트라이    | 
 | week_12 | 2023.08.27 | [57번 펠린드롬페어]    |  [12주차] 17장_정렬    |  
 | week_13 | 2023.09.03 | [N번째큰정수](https://www.acmicpc.net/problem/2075) [강의실](https://www.acmicpc.net/problem/1374) [신입사원](https://www.acmicpc.net/problem/1946)  |   [13주차] 17장_정렬      |   
 | week_14 | 2023.09.10 |     |  [14주차] 18장_이진 검색  |
