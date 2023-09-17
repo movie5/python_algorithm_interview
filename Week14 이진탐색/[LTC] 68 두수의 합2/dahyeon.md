@@ -17,7 +17,7 @@ for left in range(n):
 
 #풀이2: 두수라는 제한이 있을때
 left,right=0,n-1
-while not left == right:
+while left < right:
     if numbers[left]+numbers[right]<target:
         left+=1
     elif numbers[left]+numbers[right]>target:
